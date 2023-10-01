@@ -1,0 +1,39 @@
+.hero-background {
+    background-color: #234558;
+}
+
+.resume-background {
+    background-color: #234558;
+}
+
+.project-background {
+    background-color: #234558;
+}
+
+.contact-background {
+    background-color: #234558;
+}
+
+.profile-img, h1, h2, h3 {
+    border-radius: 50%;
+    font-family: 'Merriweather', serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: aliceblue;
+}
+
+.feature {
+    background-color: #234558;
+    border-radius: 20px;
+}
+
+.responsive {
+    max-width: 100%;
+}
+
+.resume-anchor {
+    flex-wrap: wrap;
+    width: 100%;
+}
